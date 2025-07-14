@@ -54,3 +54,4 @@ docker run \
   -e GLUE_S3_LOCATION=s3://data-pipeline-samarth/fallback/ \
   s3-to-rds-glue-app
 
+
